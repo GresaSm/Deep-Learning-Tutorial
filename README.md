@@ -1,5 +1,5 @@
-# Deep-Learning-
-**Topic modeling applications in public policy:Identifying topics in news**
+# Topic Modeling Applications in Public Policy: Identifying Topics in News
+**A Deep Learning Tutorial**
 
 This tutorial was developed by:
 * Gresa Smolica
