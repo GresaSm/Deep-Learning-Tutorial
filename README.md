@@ -1,5 +1,10 @@
-# Deep-Learning-Tutorial
-Topic modeling applications in public policy:Identifying topics in news
+# Deep-Learning-
+**Topic modeling applications in public policy:Identifying topics in news**
+
+This tutorial was developed by:
+* Gresa Smolica
+* Fernanda Ortega
+* Carmen Garro
 
 The field of Public Policy can benefit greatly from Deep Learning applications. Data based approaches can generate information from a different perspective on the current picture of situations of interest like ongoing conflicts, new diseases and threats. Topic modeling provides a time saving and low cost technique for identifying the underying amount and category of topics in a considerable amount of documents that would be otherwise very costly or impossible to cover.
 
