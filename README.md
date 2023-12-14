@@ -14,4 +14,4 @@ The tutorial gives clear steps to familiarize the user with the dataset, topic m
 This tutorial was developed by:
 * Gresa Smolica [[Email](mailto:gresasmolica@gmail.com)|[LinkedIn](www.linkedin.com/in/gresa-smolica)]
 * Fernanda Ortega [[Email](mailto:f.ortegavalencia@gmail.com)|[LinkedIn](www.linkedin.com/in/fernanda-ortega-a687771aa)]
-* Carmen Garro [[Email](mailto:carmengarro95@gmail.com)|[LinkedIn](https://www.linkedin.com/in/carmen-garro-c/)https://www.linkedin.com/in/carmen-garro-c/)]
+* Carmen Garro [[Email](mailto:carmengarro95@gmail.com)|[LinkedIn](https://www.linkedin.com/in/carmen-garro-c/)]
