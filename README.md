@@ -11,6 +11,6 @@ The tutorial is suplemented with several materials to help the user understand h
 * Video-guide, with few more bits and takeaways on BERTopic
 
 This tutorial was developed by:
-* Gresa Smolica [Email](mailto:gresasmolica@gmail.com)|[LinkedIn](www.linkedin.com/in/gresa-smolica)
+* Gresa Smolica [[Email](mailto:gresasmolica@gmail.com)|[LinkedIn](www.linkedin.com/in/gresa-smolica)]
 * Fernanda Ortega
 * Carmen Garro
