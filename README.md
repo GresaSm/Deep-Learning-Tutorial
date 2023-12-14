@@ -1,15 +1,17 @@
-# Topic Modeling Applications in Public Policy: Identifying Topics in News
-**A Deep Learning Tutorial**
+# <img width="1255" alt="hertie_logo" src="https://github.com/GresaSm/Deep-Learning-Tutorial/assets/105565019/57cbf39f-f5ed-44f0-9bba-d11ffb008a60">
+
+# Topic Modeling Applications in Public Policy 
+## Identifying Topics in News Articles
+
+The tutorial focuses on topic modelling with transformers. More specifically the tutorial employs BERTopic to classify a set of news articles that are relevant in politics and policy areas. BERTopic is a technique that uses modularity so that each step can be modified to best fit the problem in question. The dataset used in this tutorial further emphasizes the importance of using BERTopic for a time-efficient and low-cost analysis of large-size datasets, to uncover patters, themes and main topics in numerous documents of different categories, geographies, etc.
+
+The tutorial gives clear steps to familiarize the user with the dataset, topic modelling musts, and the main components that build BERTopic. It is also suplemented with several materials to help the user understand how transformers work when used for topic modelling, and how such approaches can be applied in different policy areas. The materials include:
+
+* [Presentation Slides](https://github.com/GresaSm/Deep-Learning-Tutorial/blob/main/Presentation/DL-Tutorial.pdf), for a brief introduction with the topic and what to expect from the tutorial
+* [Tutorial in Google Colab](https://github.com/GresaSm/Deep-Learning-Tutorial/blob/main/model_.ipynb), a step-by-step implementation of topic modelling with BERTopic
+* [Video-guide](), with few more bits and takeaways on BERTopic
 
 This tutorial was developed by:
-* Gresa Smolica
-* Fernanda Ortega
-* Carmen Garro
-
-The field of Public Policy can benefit greatly from Deep Learning applications. Data based approaches can generate information from a different perspective on the current picture of situations of interest like ongoing conflicts, new diseases and threats. Topic modeling provides a time saving and low cost technique for identifying the underying amount and category of topics in a considerable amount of documents that would be otherwise very costly or impossible to cover.
-
-Open access pretrained models, like the ones offered in HuggingFace are tools readily available for the public to use in Natural Language Processing scenarios. HuggingFace is a collaboration based platform where people share datasets, models and applications. Models are in the range of multimodal, natural language processing, computer vision, audio applications, tabular and reinforcement learning.
-
-This tutorial focuses on the use of BERTopic to classify a set of news articles that are relevant in the politics and policy areas. BERTopic is a technique that uses modularity so that each step can be modified to best fit the problem in question. The steps will be explained in the following section.
-
-The policy relevance in this tutorial includes identifying emerging trends, public sentiment, potential crisis, among others. All of these can fuel a more informed policy and decision making. Transparency in intuition and steps of the algorithm are also considered in this tutorial. Policy makers should get at least an intuition in the works behind the algorithm. The application of the example is also mapped and specified.
+* Gresa Smolica [[Email](mailto:gresasmolica@gmail.com)|[LinkedIn](www.linkedin.com/in/gresa-smolica)]
+* Fernanda Ortega [[Email](mailto:f.ortegavalencia@gmail.com)|[LinkedIn](www.linkedin.com/in/fernanda-ortega-a687771aa)]
+* Carmen Garro [[Email](mailto:carmengarro95@gmail.com)|[LinkedIn](https://www.linkedin.com/in/carmen-garro-c/)]
