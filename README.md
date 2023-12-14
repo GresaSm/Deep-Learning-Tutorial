@@ -1,4 +1,6 @@
-# Topic Modeling Applications in Public Policy: Identifying Topics in News![hertie](https://github.com/GresaSm/Deep-Learning-Tutorial/assets/105565019/33167f53-3106-44aa-b6d6-2bd6f0de90be)
+# ![hertie](https://github.com/GresaSm/Deep-Learning-Tutorial/assets/105565019/1d03bcbe-fb27-457d-bbf0-bc66a96e750e)
+
+# Topic Modeling Applications in Public Policy: Identifying Topics in News Articles
 
 **A Deep Learning Tutorial**
 
