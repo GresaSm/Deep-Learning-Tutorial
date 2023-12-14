@@ -9,7 +9,7 @@ The tutorial gives clear steps to familiarize the user with the dataset, topic m
 
 * [Presentation Slides](https://github.com/GresaSm/Deep-Learning-Tutorial/blob/main/Presentation/DL-Tutorial.pdf), for a brief introduction with the topic and what to expect from the tutorial
 * [Tutorial in Google Colab](https://github.com/GresaSm/Deep-Learning-Tutorial/blob/main/model_.ipynb), a step-by-step implementation of topic modelling with BERTopic
-* [Video-guide](), with few more bits and takeaways on BERTopic
+* [Video-guide](https://www.dropbox.com/scl/fo/jlzb75on345rdivtriiwn/h?rlkey=lwepafbnd7vvhfp6ln0iteise&dl=0), with few more bits and takeaways on BERTopic
 
 This tutorial was developed by:
 * Gresa Smolica [[Email](mailto:gresasmolica@gmail.com)|[LinkedIn](www.linkedin.com/in/gresa-smolica)]
