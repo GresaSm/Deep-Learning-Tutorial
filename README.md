@@ -1,4 +1,4 @@
-# ![hertie](https://github.com/GresaSm/Deep-Learning-Tutorial/assets/105565019/1d03bcbe-fb27-457d-bbf0-bc66a96e750e)
+# <img width="1255" alt="hertie_logo" src="https://github.com/GresaSm/Deep-Learning-Tutorial/assets/105565019/57cbf39f-f5ed-44f0-9bba-d11ffb008a60">
 
 # Topic Modeling Applications in Public Policy: Identifying Topics in News Articles
 
