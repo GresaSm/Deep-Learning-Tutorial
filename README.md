@@ -7,7 +7,7 @@ The tutorial focuses on topic modelling with transformers. More specifically the
 
 The tutorial gives clear steps to familiarize the user with the dataset, topic modelling musts, and the main components that build BERTopic. It is also suplemented with several materials to help the user understand how transformers work when used for topic modelling, and how such approaches can be applied in different policy areas. The materials include:
 
-* [Presentation Slides]([https://github.com/GresaSm/Deep-Learning-Tutorial/tree/main/Presentation](https://github.com/GresaSm/Deep-Learning-Tutorial/blob/main/Presentation/DL-Tutorial.pdf)), for a brief introduction with the topic and what to expect from the tutorial
+* [Presentation Slides](https://github.com/GresaSm/Deep-Learning-Tutorial/blob/main/Presentation/DL-Tutorial.pdf), for a brief introduction with the topic and what to expect from the tutorial
 * [Tutorial in Google Colab](https://github.com/GresaSm/Deep-Learning-Tutorial/blob/main/model_.ipynb), a step-by-step implementation of topic modelling with BERTopic
 * [Video-guide](), with few more bits and takeaways on BERTopic
 
